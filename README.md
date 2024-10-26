@@ -10,7 +10,7 @@ Additionally, the system tracks referees, each with a unique ID and details on t
 
 
 * **ER Diagram**
-* ![image](https://github.com/user-attachments/assets/d9959667-c47a-4e72-94b3-7d27db9206b2)
+ ![image](https://github.com/user-attachments/assets/d9959667-c47a-4e72-94b3-7d27db9206b2)
 
 
 <h3> Checkout The Project Report</h3>
